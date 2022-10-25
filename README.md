@@ -2,7 +2,7 @@
 
 The open geospatial database of boundaries and the toponymy of all the valleys of the Alps
 
-# Algorithms
+## Algorithms
 
 the construction of the boundaries is generated starting from the datasource using some [projects in qgis](qgis) and a [jupyter notebook](jupyter) with geospatial libraries in python for optimization
 
