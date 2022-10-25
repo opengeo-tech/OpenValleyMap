@@ -1,6 +1,6 @@
 # OpenValleyMap
 
-The open geospatial database of boundaries and the toponymy of all the valleys of the Alps
+The open geospatial database of boundaries and the toponymy of all the valleys in the Alps.
 
 ## Algorithms
 
