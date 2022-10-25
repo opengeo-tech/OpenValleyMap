@@ -1,6 +1,10 @@
 # OpenValleyMap
 
-a shared geospatial database with the borders and toponymy of all the valleys in the Alps
+The open geospatial database of boundaries and the toponymy of all the valleys of the Alps
+
+# Algorithms
+
+the construction of the boundaries is generated starting from the datasource using some [projects in qgis](qgis) and a [jupyter notebook](jupyter) with geospatial libraries in python for optimization
 
 ## Tools
 
