@@ -21,7 +21,8 @@ USER $NB_UID
 
 RUN fix-permissions /home/$NB_USER
 
-RUN pip install ipywidgets \
+RUN pip install \
+	ipywidgets \
 	#cartopy \
 	matplotlib \
 	pandas \
@@ -30,9 +31,10 @@ RUN pip install ipywidgets \
 	descartes \
 	geopandas \
 	rasterio
-	# \ pyflwdir
 
 RUN conda install pyflwdir -c conda-forge
+
+RUN conda install -c conda-forge saga-python
 
 # RUN pip install
 # RUN pip install

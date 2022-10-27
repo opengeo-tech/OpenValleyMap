@@ -14,10 +14,9 @@ services:
       args:
         NB_UID: 1000
     ports:
-      - "8090:8888"
+      - "8888:8888"
     volumes:
       - ./jupyter_notebook_config.py:/home/jovyan/.jupyter/jupyter_notebook_config.py
       - ./data:/home/jovyan/data
-    #restart: always
-    depends_on:
-      - vroom
+      - ./notebooks:/home/jovyan/notebooks
+    restart: "no"
