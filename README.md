@@ -15,7 +15,7 @@ the way to contribute to this database is a web tool that allows users to upload
 
 ### Openstreetmap
 
-[natural=valleyy](https://taginfo.openstreetmap.org/tags/natural=valley)
+[natural=valley](https://taginfo.openstreetmap.org/tags/natural=valley)
 
 ### Digital Terrain Model
 
