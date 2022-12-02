@@ -5,7 +5,7 @@ The open geospatial database of boundaries and the toponymy of all the valleys i
 ## Algorithms
 
 the construction of the boundaries is generated starting from the datasource using some [projects in qgis](jupyter/qgis) and a [jupyter notebook](jupyter) with geospatial libraries in python for optimization
-![](jupyter/qgis/join_line_basin_by_name.png)
+![basins](images/join_line_basin_by_name.png)
 
 ## Tools
 
