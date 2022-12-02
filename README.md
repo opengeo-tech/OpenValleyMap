@@ -1,4 +1,5 @@
 # OpenValleyMap
+![logo](images/logo.png)
 
 The open geospatial database of boundaries and the toponymy of all the valleys in the Alps.
 
